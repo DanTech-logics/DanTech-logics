@@ -97,7 +97,6 @@ Graduated with high honors.
 
 ---
 
-Feel free to create your GitHub repository and add this information in the README.md file to showcase your portfolio.
 
 <!---
 DanTech-logics/DanTech-logics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
