@@ -5,9 +5,6 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... --->
-
-Here's a formatted version of your GitHub portfolio for Daniel Mbugua:
-
 ---
 
 # Daniel Mbugua
