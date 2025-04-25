@@ -77,11 +77,14 @@ Graduated with high honors.
 
 #### Projects
 
-- **[SnaptikTo](https://snaptikto.app)**: TikTok Video Downloader Utility Website - Easily download TikTok videos in high quality without watermarks.
+- **[Cal AI](https://apps.apple.com/na/app/cal-ai-food-tracker-planner/id6736640839?platform=iphone)**: Snap Meals Track Calories Fast.
+- **[TripIQ AI Travel Planner](https://apps.apple.com/na/app/tripiq-ai-trip-planner/id6692629164?platform=iphone)**: Smart AI-Powered Trip Planner.
 - **[AskGPT](https://digilinesol.com)**: Mobile App for Android and iOS with Web-Based Admin Panel - AI-driven conversations using the ChatGPT API.
 - **[TmsPro](http://tmspro.co.ke)**: Tenant Management System with Web and Mobile App Integration - Manage tenant info, leases, rent payments, and maintenance requests efficiently.
 - **[Taifa Online](http://taifaonline.com)**: Online Marketplace for Buying and Selling Products - Secure payments, detailed listings, and great customer support for a smooth shopping experience.
 - **[DigiChurch](http://techfarmlogics.com/church)**: Web-Based Church Management System - Manage member info, events, donations, volunteers, and communication.
+- **[SnaptikTo](https://snaptikto.app)**: TikTok Video Downloader Utility Website - Easily download TikTok videos in high quality without watermarks.
+
 
 ---
 
